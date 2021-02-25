@@ -1,11 +1,9 @@
 # Tema Değişimi ✨
 
-Dark Mode | Light Mode
------------- | -------------
-<img src="https://github.com/harunayyildiz/theme_change/blob/master/lib/screen_dark.png" alt="Dark Mode" width="220" height="391"> | <img src="https://github.com/harunayyildiz/theme_change/blob/master/lib/screen_light.png" alt="Light Mode" width="220" height="391">
+Dark Mode | Light Mode | Record
+------------ | ------------- | -------------
+<img src="https://github.com/harunayyildiz/theme_change/blob/master/lib/screen_dark.png" alt="Dark Mode" width="220" height="391"> | <img src="https://github.com/harunayyildiz/theme_change/blob/master/lib/screen_light.png" alt="Light Mode" width="220" height="391"> | <img src="https://github.com/harunayyildiz/theme_change/blob/master/lib/Theme_change_record.gif" alt="Splash" width="220" height="391">
 
-# Record
-<img src="https://github.com/harunayyildiz/theme_change/blob/master/lib/Theme_change_record.gif" alt="Splash" width="220" height="391">
 
 # Bilgiler
 
